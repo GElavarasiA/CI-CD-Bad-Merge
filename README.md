@@ -30,3 +30,4 @@ Created the project folder:
 
 ```text
 D:\CI-CD-Bad-Merge
+CI pipeline testing
